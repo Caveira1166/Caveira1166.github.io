@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ItemType>GenericProject</ItemType>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{604837EE-E94C-42CF-8AF0-1F6FABDAF640}</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Default|AnyCPU' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="blog\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="css\main.css" />
+    <None Include="css\reset.css" />
+    <None Include="css\typography.css" />
+    <None Include="images\.directory" />
+    <None Include="images\bg-bl.gif" />
+    <None Include="images\bg-br.gif" />
+    <None Include="images\bg-date.gif" />
+    <None Include="images\bg-rp.gif" />
+    <None Include="images\bg-tl.gif" />
+    <None Include="images\bg-tr.gif" />
+    <None Include="images\box-b.gif" />
+    <None Include="images\box-red-bl.gif" />
+    <None Include="images\box-red-br.gif" />
+    <None Include="images\box-red-tl.gif" />
+    <None Include="images\box-red-tr.gif" />
+    <None Include="images\box-rp.gif" />
+    <None Include="images\box-t.gif" />
+    <None Include="images\bullet1.gif" />
+    <None Include="images\dotted1.gif" />
+    <None Include="images\flag_english.gif" />
+    <None Include="images\flag_french.gif" />
+    <None Include="images\h2.gif" />
+    <None Include="images\header_bg.jpg" />
+    <None Include="images\icon_search.gif" />
+    <None Include="images\icon1.gif" />
+    <None Include="images\icon2.gif" />
+    <None Include="images\icon3.gif" />
+    <None Include="images\icon-rss.gif" />
+    <None Include="images\logo.gif" />
+    <None Include="images\mainnav-l.gif" />
+    <None Include="images\mainnav-r.gif" />
+    <None Include="images\photo.gif" />
+    <None Include="images\photo1.jpg" />
+    <None Include="images\search_r.gif" />
+    <None Include="images\search-l.gif" />
+    <None Include="images\spl-bg.gif" />
+    <None Include="images\tag-cloud.gif" />
+    <None Include="images\Thumbs.db" />
+    <None Include="images\toptag.gif" />
+    <None Include="images\work1.gif" />
+    <None Include="images\work2.gif" />
+    <None Include="images\work3.gif" />
+    <None Include="images\work4.gif" />
+    <None Include="images\work5.gif" />
+    <None Include="images\work6.gif" />
+    <None Include="images\work-bg.gif" />
+    <None Include="images\work-wrap.gif" />
+    <None Include="index.html" />
+  </ItemGroup>
+</Project>
