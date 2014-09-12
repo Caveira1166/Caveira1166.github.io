@@ -71,7 +71,7 @@ Layout
 }
 
 #header {
-	height: 224px;
+	height: 150px;
 	position: relative;
 	-position: static;
 }
@@ -113,7 +113,7 @@ Layout
 	font-size: 32px;
 	width: 203px;
 	height: 66px;
-	background: url(../images/logo.gif) left top no-repeat;
+	background: url(../images/logo.png) left top no-repeat;
 	text-indent: -5000px;
 
 }

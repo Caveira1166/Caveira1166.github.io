@@ -12,9 +12,6 @@
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="blog\" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="css\main.css" />
     <None Include="css\reset.css" />
     <None Include="css\typography.css" />
