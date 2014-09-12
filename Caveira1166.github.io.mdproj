@@ -40,7 +40,6 @@
     <None Include="images\icon2.gif" />
     <None Include="images\icon3.gif" />
     <None Include="images\icon-rss.gif" />
-    <None Include="images\logo.gif" />
     <None Include="images\mainnav-l.gif" />
     <None Include="images\mainnav-r.gif" />
     <None Include="images\photo.gif" />
@@ -60,5 +59,12 @@
     <None Include="images\work-bg.gif" />
     <None Include="images\work-wrap.gif" />
     <None Include="index.html" />
+    <None Include="images\icon1.png" />
+    <None Include="images\icon2.png" />
+    <None Include="images\icon3.png" />
+    <None Include="images\logo.png" />
+    <None Include="images\logo_preto.png" />
+    <None Include="images\photo.png" />
+    <None Include="images\tag-cloud.png" />
   </ItemGroup>
 </Project>
