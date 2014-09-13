@@ -66,5 +66,10 @@
     <None Include="images\logo_preto.png" />
     <None Include="images\photo.png" />
     <None Include="images\tag-cloud.png" />
+    <None Include="resenhas.html" />
+    <None Include="curiosidades.html" />
+    <None Include="dicas.html" />
+    <None Include="noticias.html" />
+    <None Include="projetos.html" />
   </ItemGroup>
 </Project>
