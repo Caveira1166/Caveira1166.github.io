@@ -1,10 +1,11 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="berro.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="resenhas.html">
     <Files>
-      <File FileName="index.html" Line="120" Column="32" />
-      <File FileName="berro.html" Line="24" Column="82" />
-      <File FileName="css/main.css" Line="188" Column="11" />
+      <File FileName="index.html" Line="129" Column="1" />
+      <File FileName="berro.html" Line="95" Column="17" />
+      <File FileName="lembra.html" Line="95" Column="1" />
+      <File FileName="resenhas.html" Line="95" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
