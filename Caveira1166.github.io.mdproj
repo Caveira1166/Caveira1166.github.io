@@ -71,5 +71,6 @@
     <None Include="lembra.html" />
     <None Include="images\skull.png" />
     <None Include="CNAME" />
+    <None Include="images\favicon.ico" />
   </ItemGroup>
 </Project>
