@@ -69,5 +69,6 @@
     <None Include="resenhas.html" />
     <None Include="berro.html" />
     <None Include="lembra.html" />
+    <None Include="images\skull.png" />
   </ItemGroup>
 </Project>
