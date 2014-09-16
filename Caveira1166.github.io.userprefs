@@ -5,13 +5,15 @@
       <File FileName="index.html" Line="1" Column="1" />
       <File FileName="berro.html" Line="1" Column="1" />
       <File FileName="lembra.html" Line="1" Column="1" />
-      <File FileName="resenhas.html" Line="98" Column="45" />
-      <File FileName="CNAME" Line="1" Column="24" />
+      <File FileName="resenhas.html" Line="1" Column="1" />
+      <File FileName="CNAME" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State expanded="True" selected="True">
-          <Node name="Caveira1166.github.io" expanded="True" />
+        <State expanded="True">
+          <Node name="Caveira1166.github.io" expanded="True">
+            <Node name="CNAME" selected="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
