@@ -8,7 +8,6 @@ div.wrap {
 
 div.pagesize {
 	width: 779px;
-	-width:850px;
 	margin: 0 auto;
 	text-align: left;
 }
@@ -189,6 +188,11 @@ div.box-dot div.inner div.inner div.inner div.inner div.inner div.inner div.inne
 #maincol {
 	width: 500px;
 	float: left;
+}
+
+#widemaincol {
+    width: 750px;
+    float: left;
 }
 
 #sidebar {
