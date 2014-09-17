@@ -72,5 +72,6 @@
     <None Include="images\skull.png" />
     <None Include="CNAME" />
     <None Include="images\favicon.ico" />
+    <None Include="noticias.html" />
   </ItemGroup>
 </Project>
