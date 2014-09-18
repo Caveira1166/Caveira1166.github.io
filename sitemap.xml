@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>http://orleiivanski.com.br/</loc>
+      <lastmod>2014-09-18</lastmod>
+      <changefreq>hourly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://orleiivanski.com.br/berro.html</loc>
+      <lastmod>2014-09-18</lastmod>
+      <changefreq>hourly</changefreq>
+   </url>
+   <url>
+      <loc>http://orleiivanski.com.br/lembra.html</loc>
+      <lastmod>2014-09-18</lastmod>
+      <changefreq>hourly</changefreq>
+   </url>
+   <url>
+      <loc>http://orleiivanski.com.br/noticias.html</loc>
+      <lastmod>2014-09-18</lastmod>
+      <changefreq>hourly</changefreq>
+   </url>
+</urlset>

@@ -73,5 +73,6 @@
     <None Include="CNAME" />
     <None Include="images\favicon.ico" />
     <None Include="noticias.html" />
+    <None Include="sitemap.xml" />
   </ItemGroup>
 </Project>
