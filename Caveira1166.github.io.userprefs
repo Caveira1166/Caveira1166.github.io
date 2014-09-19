@@ -1,14 +1,12 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="index.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="resenhas.html">
     <Files>
-      <File FileName="index.html" Line="46" Column="67" />
-      <File FileName="berro.html" Line="1" Column="1" />
-      <File FileName="lembra.html" Line="1" Column="1" />
-      <File FileName="noticias.html" Line="1" Column="1" />
-      <File FileName="resenhas.html" Line="1" Column="1" />
-      <File FileName="sitemap.xml" Line="1" Column="1" />
-      <File FileName="css/main.css" Line="73" Column="13" />
+      <File FileName="index.html" Line="55" Column="1" />
+      <File FileName="berro.html" Line="54" Column="1" />
+      <File FileName="lembra.html" Line="54" Column="1" />
+      <File FileName="noticias.html" Line="54" Column="1" />
+      <File FileName="resenhas.html" Line="38" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

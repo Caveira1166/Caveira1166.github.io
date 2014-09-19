@@ -74,5 +74,8 @@
     <None Include="images\favicon.ico" />
     <None Include="noticias.html" />
     <None Include="sitemap.xml" />
+    <None Include="celebridades.html" />
+    <None Include="adulto.html" />
+    <None Include="avisoadulto.html" />
   </ItemGroup>
 </Project>

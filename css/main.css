@@ -45,6 +45,64 @@ div.vernav ul li, div.vernav ul li a, div.vernav ul li, div.vernav ul li a span 
 	display: block;
 }
 
+/* Menu com submenu alternativo */
+.menu {
+    list-style: none;
+    float: left;
+}
+
+.menu li {
+    position: relative;
+    float: left;
+}
+
+.menu li a {
+    color: #333;
+    text-decoration: none;
+    padding: 5px 10px;
+    display:block;
+}
+
+.menu li a:hover, .menu li a.over {
+    background: #333;
+    color: #fff;
+    -moz-box-shadow: 0 3px 10px 0 #CCC;
+    -webkit-box-shadow: 0 3px 10px 0 #ccc;
+    text-shadow: 0px 0px 5px #fff;
+}
+
+.menu li   ul {
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background-color: #fff;
+    display: none;
+}
+
+.menu li:hover ul, .menu li.over ul {
+    display: block;
+}
+
+.menu li ul li {
+    display: block;
+    width: 150px;
+}
+
+.menu ul li a span {
+    height: 28px;
+    line-height: 28px;
+    padding: 0 8px;
+    color: #757575;
+    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.menu a.current span {
+    border: 1px solid #c0c0c0;
+}
+/* Fim do menu */
+
 .left {
 	display: block;
 	float: left;
@@ -146,8 +204,6 @@ Layout
 #mainnav ul li a.active span {
 	background: transparent  url(../images/mainnav-r.gif) right top no-repeat;
 	margin-right: -5px;
-
-
 }
 
 div.box-dot {
