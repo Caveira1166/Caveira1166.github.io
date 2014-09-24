@@ -66,7 +66,6 @@
     <None Include="images\logo_preto.png" />
     <None Include="images\photo.png" />
     <None Include="images\tag-cloud.png" />
-    <None Include="resenhas.html" />
     <None Include="berro.html" />
     <None Include="lembra.html" />
     <None Include="images\skull.png" />
@@ -77,5 +76,7 @@
     <None Include="celebridades.html" />
     <None Include="adulto.html" />
     <None Include="avisoadulto.html" />
+    <None Include="dicas.html" />
+    <None Include="espiritismo.html" />
   </ItemGroup>
 </Project>
