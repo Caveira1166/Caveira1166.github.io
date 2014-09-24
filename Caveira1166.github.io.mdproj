@@ -78,5 +78,7 @@
     <None Include="avisoadulto.html" />
     <None Include="dicas.html" />
     <None Include="espiritismo.html" />
+    <None Include="saude.html" />
+    <None Include="esportes.html" />
   </ItemGroup>
 </Project>

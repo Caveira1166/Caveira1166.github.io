@@ -38,4 +38,12 @@
       <loc>http://orleiivanski.com.br/espiritismo.html</loc>
       <changefreq>hourly</changefreq>
    </url>
+   <url>
+      <loc>http://orleiivanski.com.br/saude.html</loc>
+      <changefreq>hourly</changefreq>
+   </url>
+   <url>
+      <loc>http://orleiivanski.com.br/esportes.html</loc>
+      <changefreq>hourly</changefreq>
+   </url>
 </urlset>
